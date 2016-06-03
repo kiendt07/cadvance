@@ -1,0 +1,9 @@
+libadgr.a 	Graph with Adj JRB
+libbfs.a 	BFS
+libdfs.a	DFS
+libbt.a 	B Tree
+libfdr.a	fdr lib: fields, dllist, jval, JRB
+libque.a 	Queue
+libsdx.a 	Soundex
+libstk.a	Stack
+
